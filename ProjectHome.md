@@ -1,0 +1,1 @@
+All of the currently available help desk products fail to meet my standards, so I've decided to make my own. This project is (will be) written in PHP with a MySQL backend and LDAP Authentication support. If you are interested in participating in this project, feel free to drop me a line @ coreyitaliano@gmail.com.
